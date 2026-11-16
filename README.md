@@ -23,4 +23,4 @@ The standard sndvol32.exe may not work as intended without this patch. Credits g
 sdbinst C:\Windows\apppatch\sndvol32.sdb -q
 sdbinst C:\Windows\apppatch\sndvol32-64.sdb -q
 ```
-You may need to reimport the ``Stobject.reg`` again for this to truly work.
+You may need to reimport the ``Stobject.reg`` again for this to truly work
